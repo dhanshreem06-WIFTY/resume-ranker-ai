@@ -1,0 +1,16 @@
+ARJUN K
+AI & ML Engineering Student
+
+SUMMARY
+Engineering student focused on applied machine learning and computer vision. Built academic and personal projects in Python, OpenCV and scikit-learn.
+
+SKILLS
+Python, C++, SQL, Git, GitHub, NumPy, Pandas, scikit-learn, OpenCV, machine learning, computer vision, data structures, algorithms, REST APIs, FastAPI, PostgreSQL, problem solving, teamwork, communication.
+
+PROJECTS
+Vehicle Lane Detection: Built a lane-detection prototype using Python and OpenCV; evaluated image-processing pipelines and documented results.
+
+ML Prediction API: Trained a scikit-learn model and exposed inference through a FastAPI REST API. Used PostgreSQL for experiment metadata.
+
+EDUCATION
+B.E. Artificial Intelligence and Machine Learning

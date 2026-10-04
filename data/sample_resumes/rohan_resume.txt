@@ -1,0 +1,16 @@
+ROHAN P
+Engineering Student
+
+SUMMARY
+Engineering student interested in software and automation. Comfortable with basic programming and collaborative college projects.
+
+SKILLS
+Java, C, HTML, CSS, Git, SQL, object oriented programming, data structures, algorithms, communication, teamwork.
+
+PROJECTS
+Library Management System: Built a Java and SQL application for managing books and student records.
+
+College Robotics Project: Worked on a small robot prototype and basic sensor integration.
+
+EDUCATION
+B.E. Electronics and Communication Engineering

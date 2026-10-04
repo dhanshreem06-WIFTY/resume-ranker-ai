@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: resume-ranker-ai
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /_stcore/health

@@ -1,0 +1,24 @@
+AI/ML Software Engineer Intern
+
+We are looking for an engineering student to join an applied AI and software team working on intelligent automotive systems.
+
+Responsibilities:
+- Build Python services and data-processing pipelines.
+- Develop machine learning and computer vision prototypes.
+- Work with OpenCV, NumPy, Pandas and scikit-learn.
+- Build REST APIs using FastAPI or Flask.
+- Use Git and GitHub for collaborative development.
+- Work with SQL databases.
+- Collaborate with software and automotive engineers and document technical work.
+
+Requirements:
+- Strong Python fundamentals.
+- Understanding of data structures and algorithms.
+- Knowledge of machine learning fundamentals.
+- Experience with computer vision or image processing is useful.
+- Familiarity with SQL, Git and REST APIs.
+- Strong problem solving and communication skills.
+
+Nice to have:
+- C++ or embedded systems exposure.
+- Automotive, robotics, ADAS or autonomous-driving project experience.

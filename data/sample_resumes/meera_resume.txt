@@ -1,0 +1,16 @@
+MEERA S
+Software Engineering Student
+
+SUMMARY
+Software-focused engineering student with strong Python and web development fundamentals. Interested in building production software and data applications.
+
+SKILLS
+Python, JavaScript, HTML, CSS, React, Node.js, SQL, MySQL, Git, GitHub, Flask, REST APIs, Pandas, NumPy, data analysis, algorithms, software engineering, testing, communication, teamwork.
+
+PROJECTS
+Campus Event Platform: Developed a React and Node.js web application with a MySQL database and REST APIs.
+
+Student Analytics: Used Python, Pandas and NumPy to analyze academic data and build reports.
+
+EDUCATION
+B.E. Computer Science and Engineering

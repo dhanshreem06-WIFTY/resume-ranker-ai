@@ -1,0 +1,10 @@
+{
+  "programming": ["python", "java", "c++", "c", "javascript", "typescript", "sql", "r"],
+  "web": ["html", "css", "react", "node.js", "nodejs", "fastapi", "flask", "django", "rest api", "restful api"],
+  "data_ai": ["machine learning", "deep learning", "artificial intelligence", "nlp", "computer vision", "pandas", "numpy", "scikit-learn", "tensorflow", "pytorch", "keras", "opencv", "transformers", "hugging face", "feature engineering", "data analysis", "data visualization"],
+  "cloud_devops": ["aws", "azure", "gcp", "docker", "kubernetes", "git", "github", "ci/cd", "linux", "jenkins"],
+  "databases": ["mysql", "postgresql", "mongodb", "sqlite", "oracle", "redis", "database management", "dbms"],
+  "engineering": ["software engineering", "object oriented programming", "oop", "data structures", "algorithms", "system design", "testing", "unit testing", "debugging", "agile"],
+  "automotive": ["automotive", "embedded systems", "can bus", "autosar", "matlab", "simulink", "adas", "autonomous driving", "vehicle dynamics", "robotics"],
+  "professional": ["communication", "teamwork", "leadership", "problem solving", "documentation", "presentation"]
+}
